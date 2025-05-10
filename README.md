@@ -14,13 +14,14 @@
     ├── test_payout.py
     └── test_main.py
 ├── .gitignore
+├── LICENSE
+├── README.md
 ├── data1.cvs
 ├── data2.cvs
 ├── data3.cvs
 ├── main.py
 ├── models.py
 ├── reader.py
-├── README.md
 ├── requirements.txt
 ├── setup.py
 ```
